@@ -1,0 +1,7 @@
+1615286943716	geckodriver	INFO	Listening on 127.0.0.1:65087
+1615286946900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofilehw8L0D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615286967259	Marionette	INFO	Listening on port 65096
+1615286967787	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16860, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1615287087538	Marionette	INFO	Stopped listening on port 65096

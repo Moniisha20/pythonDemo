@@ -1,0 +1,13 @@
+1615295949974	geckodriver	INFO	Listening on 127.0.0.1:56030
+1615295953046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\david\\AppData\\Local\\Temp\\rust_mozprofileiakZ23"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615295963232	Marionette	INFO	Listening on port 56038
+1615295964212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/desk1021_3.js, line 78: TypeError: a is undefined
+JavaScript error: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=mobile&_sacat=0, line 1: TypeError: r[1] is undefined
+1615295987051	Marionette	INFO	Stopped listening on port 56038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
